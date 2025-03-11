@@ -8,4 +8,3 @@ def containsDuplicate(self, nums):
         if nums[i] == nums[i + 1]:
             return True
     return False
-        
