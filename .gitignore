@@ -1,2 +1,4 @@
-.\sql50\process.db
-.\sql50\temp.db
+process.db
+temp.db
+students.db
+employee.db
